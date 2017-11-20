@@ -1,3 +1,5 @@
+https://mybinder.org/v2/gh/vdbcyril/alien-franchise-nlp/master?filepath=alien-franchise-nlp.ipynb
+
 # Frequency of words in the Alien franchise
 
 ## Project Description
@@ -57,7 +59,3 @@ source activate alien-franchise-nlp
 In the terminal, execute `jupyter notebook`.
 
 Next, open the notebook `alien-franchise-nlp.ipynb` and you are ready to read about the project.
-
-### Getting set up using Binder
-
-COMING SOON!
