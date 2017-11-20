@@ -57,3 +57,7 @@ source activate alien-franchise-nlp
 In the terminal, execute `jupyter notebook`.
 
 Next, open the notebook `alien-franchise-nlp.ipynb` and you are ready to read about the project.
+
+## Any issues or thoughts ?
+
+If you encounter any issues, use the [Issues page](https://github.com/vdbcyril/alien-franchise-nlp/issues). You can send your thoughts to cyril.vandenberghe.pro@gmail.com
