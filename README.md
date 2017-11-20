@@ -1,5 +1,3 @@
-https://mybinder.org/v2/gh/vdbcyril/alien-franchise-nlp/master?filepath=alien-franchise-nlp.ipynb
-
 # Frequency of words in the Alien franchise
 
 ## Project Description
@@ -23,7 +21,7 @@ It would help if you knew
 
 ## Getting set up
 
-You can set up this project locally or using [Binder](https://mybinder.org/).
+You can set up this project locally or using [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vdbcyril/alien-franchise-nlp/master?filepath=alien-franchise-nlp.ipynb)
 
 ### Getting set up locally
 
